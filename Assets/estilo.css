@@ -1,0 +1,41 @@
+
+header{
+    padding: 10px;
+}
+
+body{
+    background-image: url("/IMG/Auto\ 1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo{
+    background-image: url("/img/portada.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color:blue;
+}
+
+h2{
+    margin: 0;
+}
+.imga{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.foot{
+    background-color: cyan;
+    justify-content: center;
+    display: flex;
+}
+p{
+    color: rgb(219, 28, 28);
+    text-decoration-line: underline; 
+}
+.center{
+    margin-left: 200px;
+    }
